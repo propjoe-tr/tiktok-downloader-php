@@ -16,7 +16,7 @@ A lightweight PHP library to download TikTok videos without watermark using ssst
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/tiktok-downloader-php.git
+git clone https://github.com/propjoe-tr/tiktok-downloader-php.git
 ```
 
 Or just download `ssstik.php` and include it in your project.
